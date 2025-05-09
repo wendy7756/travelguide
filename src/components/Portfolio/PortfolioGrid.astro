@@ -1,8 +1,6 @@
 ---
-import { type CollectionEntry, getCollection, render } from "astro:content";
-
-// components
 import PortfolioCard from "@components/PortfolioCard/PortfolioCard.astro";
+import { type CollectionEntry, getCollection, render } from "astro:content";
 
 interface Props {
 	portfolios: CollectionEntry<"portfolios">[];

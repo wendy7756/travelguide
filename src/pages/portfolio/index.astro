@@ -1,13 +1,11 @@
 ---
-import { getCollection, render } from "astro:content";
-
-// layout
-import BaseLayout from "@layouts/BaseLayout.astro";
-
 // components
 import Contact from "@components/Contact/Contact.astro";
 import PortfolioGrid from "@components/Portfolio/PortfolioGrid.astro";
 import TestimonialQuote from "@components/Testimonials/TestimonialQuote.astro";
+// layout
+import BaseLayout from "@layouts/BaseLayout.astro";
+import { getCollection, render } from "astro:content";
 
 const portfolios = await getCollection("portfolios", ({ data }) => {
 	// filter out draft pages
