@@ -1,9 +1,8 @@
 ---
-import { type CollectionEntry, getCollection, render } from "astro:content";
-import { type InferGetStaticPropsType } from "astro";
-
 // layout
 import PortfolioLayout from "@layouts/PortfolioLayout.astro";
+import { type InferGetStaticPropsType } from "astro";
+import { type CollectionEntry, getCollection, render } from "astro:content";
 
 export async function getStaticPaths() {
 	const portfolios = await getCollection("portfolios", ({ data }) => {

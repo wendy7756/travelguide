@@ -19,7 +19,7 @@ const navConfig: navItem[] = [
 	},
 	{
 		text: "portfolios",
-		link: "/portfolio",
+		link: "/portfolio/",
 	},
 	{
 		text: "Pricing",
@@ -30,7 +30,7 @@ const navConfig: navItem[] = [
 		dropdown: [
 			{
 				text: "Portfolio",
-				link: "/portfolio/couple-1",
+				link: "/portfolio/couple-1/",
 			},
 			{
 				text: "Legal",

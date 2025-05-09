@@ -4,11 +4,9 @@
  * Larger on the left, smaller two on the right
  */
 
-import { getCollection } from "astro:content";
-
-// components
-import PortfolioCard from "@components/PortfolioCard/PortfolioCard.astro";
 import Button from "@components/Button/Button.astro";
+import PortfolioCard from "@components/PortfolioCard/PortfolioCard.astro";
+import { getCollection } from "astro:content";
 
 const portfolios = await getCollection("portfolios");
 
