@@ -9,7 +9,6 @@ import { Image } from "astro:assets";
 interface pricingItem {
 	name: string; // plan name
 	featured?: boolean; // if true, will be highlighted or otherwise featured
-	price: number;
 	features: string[]; // list of features
 	image: ImageMetadata; // imported image
 }
@@ -21,37 +20,34 @@ import image2 from "@assets/images/couple-6-crop.jpg";
 // This is designed for 3 pricing items, but can be modified to support more
 const pricingData: pricingItem[] = [
 	{
-		name: "Elopement",
+		name: "Tibet",
 		featured: false,
-		price: 1999,
 		features: [
-			"200+ Professionally Edited Photos",
-			"Private Online Gallery",
-			"*Additional Charge Based On Travel Distance",
-			"*Additional Charge For Videography",
+
+			"*Potala Palace – A majestic structure perched above Lhasa; a spiritual landmark.",
+			"*Mount Everest (Qomolangma) – The highest point on Earth, a dream for climbers and pilgrims.",
+			"*Namtso Lake – The “Lake of the Sky”, one of Tibet’s four sacred lakes.",
+		
 		],
 		image: image1,
 	},
 	{
-		name: "Wedding",
+		name: "Xinjiang",
 		featured: true,
-		price: 2999,
 		features: [
-			"300+ Professionally Edited Photos",
-			"Private Online Gallery",
-			"All-Day Photography Coverage",
-			"*Additional Charge For Videography",
+			"*Heavenly Lake of Tianshan – A serene alpine lake cradled by snowy mountains, perfect year-round.",
+			"*Kanas Lake – A mystical lake famed for legends and fairy-tale scenery.",
+			"*Taklamakan Desert – China’s largest desert; experience vast dunes and golden silence.",
 		],
 		image: image2,
 	},
 	{
-		name: "Engagement",
+		name: "Nei Mongol",
 		featured: false,
-		price: 799,
 		features: [
-			"100+ Professionally Edited Photos",
-			"Private Online Gallery",
-			"*Additional Charge Based On Travel Distance",
+			"*Hulunbuir Grasslands – Among the world’s largest grasslands; ideal for horse riding and yurts.",
+			"*Xiangshawan & Kubuqi Desert – Sandboarding, camel rides, and golden dunes.",
+			"*Naadam Festival – Celebrate with traditional sports: horse racing, wrestling, and archery.",
 		],
 		image: image3,
 	},
@@ -60,7 +56,7 @@ const pricingData: pricingItem[] = [
 
 <section id="pricing" class="mx-auto max-w-6xl scroll-mt-10 px-4 py-8 md:py-12">
 	<div class="mx-auto max-w-6xl text-center">
-		<h2 class="h2 text-pretty uppercase">Photography Packages</h2>
+		<h2 class="h2 text-pretty uppercase">Popular Destinations</h2>
 	</div>
 
 	<!-- works for 3 pricing plans, adjust grid cols here to support more or less -->
@@ -78,7 +74,7 @@ const pricingData: pricingItem[] = [
 					]}
 				>
 					<div>
-						<div class="aspect-[3/4] h-auto w-full overflow-hidden">
+						<div class="aspect-square h-auto w-full overflow-hidden">
 							<Image
 								src={plan.image}
 								alt={plan.name}
@@ -98,17 +94,11 @@ const pricingData: pricingItem[] = [
 								))}
 							</ul>
 						</div>
-						<p class="font-decorative text-base-800 mt-6 flex justify-center text-center text-[5rem] leading-none">
-							${plan.price}
-							<span class="flex h-full text-[3.5rem]">+</span>
-						</p>
+						
 					</div>
 				</div>
 			))
 		}
 	</div>
 
-	<div class="mt-12 flex justify-center">
-		<Button href="/#contact" variant="outline" class="px-8">Get a quote</Button>
-	</div>
 </section>

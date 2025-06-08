@@ -1,49 +1,56 @@
 ---
 title: Privacy Policy
-description: Example privacy policy for Blogsmith! The best starter blog template for Astro.
+description: Learn how we handle your data on our travel website — designed to respect your privacy.
 ---
 
-_Last updated on Sep 9, 2023_
+_Last updated on June 8, 2025_
 
-This privacy policy sets out how Example LLC collects, processes, and uses your Personal Information through your use of our Services.
+This Privacy Policy explains how we collect, use, and protect your information when you use our travel website.
 
-**This is purely for example. Please consult a lawyer for your own privacy policy.**
+## Information We Collect
 
-## Personal Information Collection
+We **do not require user login** and do **not track or collect personal data** during your browsing experience.
 
-We only collect and use Personal Information to the extent necessary to provide you with the Services. We collect Personal Information for the Website to provide you with a better online experience.
+The only information we collect is through the **contact form** you voluntarily fill out. This form typically includes:
+- Your name
+- Email address
+- Travel inquiry or message
 
-## Personal Information Retention
+This data is used solely to respond to your request and is **not stored beyond what is necessary to reply**.
 
-We keep Personal Information for the shortest time necessary to provide you with Services and to meet all our legal and compliance obligations. To determine this retention period, we take into account (i) the nature of the Personal Information gathered; and (ii) the nature of our legal and compliance obligations. All Personal Information no longer required by us is destroyed and/or erased.
+## No Analytics Tracking
 
-## Personal Data from Third Parties
+We currently **do not use any analytics tools** (such as Google Analytics) that track your personal behavior across sessions.
 
-We may, from time to time, obtain Personal Information from third parties to enable us to better tailor our Services to you (Third Party Personal Information). When we obtain Third Party Personal Information, we will notify you within one month. If we use or share Third Party Personal Information, we will notify you immediately.
+## No Cookies or Tracking Scripts
 
-## Your Rights
+Our site does **not use cookies** or tracking pixels to collect or analyze visitor data.
 
-With respect to Personal Information we hold, you have the following rights:
+## Data Sharing
 
-- Access: You may request from us access to your data that we hold on you.
-- Rectification: If the data we hold on you is inaccurate, you may request that we correct it. If the data we hold is incomplete, you may request that we complete it.
-- Erasure: Subject to certain conditions, you may request that we erase all of the data we hold on you.
-- Restrictions: Subject to certain conditions, you may request that we restrict the processing of data we hold on you.
-- Portability: Subject to certain conditions, you may request that we transfer all the data we hold on you to a third party (including yourself).
-- Objection: Subject to certain conditions, you may object to our processing of your data.
+We do **not share, sell, or transfer** your personal information to any third parties. All form submissions are delivered directly to our internal email for response purposes only.
 
-## Minors
+## Data Retention
 
-We do not knowingly collect information on children under the age of 16 (“Child”). If you become aware that a Child has provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a Child without their parent's verifiable authorization to access our Services, we will take steps to remove that information from our servers.
+Form submission content is **retained only as long as necessary** to reply to your inquiry. We do not build or store any personal user profiles.
 
-## Third Party Links
+## Children's Privacy
 
-Our website contains links to other third-party websites not owned or managed by Example LLC. This privacy policy applies to this website only. If you click a link to a third-party website, the privacy policy of that website will apply. We highly recommend that you read the privacy policies of other websites as they may be different from ours.
+We do not knowingly collect information from individuals under the age of 16. If we become aware that we have received data from a child, we will delete it immediately.
 
-## Merger, acquisition, or asset sale
+## Third-Party Links
 
-If Example LLC is involved in a merger, acquisition, or asset sale, your Personal Information may be transferred.
+Our website may link to external resources (e.g., travel booking sites). Once you leave our site, their privacy policies apply.
 
-## Contact us
+## Changes to This Policy
 
-If you have any questions or suggestions about our privacy policy or want to know more information about Personal Information we hold, please contact us at support@example.com.
+We may update this policy to reflect operational or legal changes. The updated date will be displayed at the top.
+
+## Contact Us
+
+If you have any questions or concerns about this policy, please contact us at:  
+📧 **wendy7756@outlook.com**
+
+---
+
+Thank you for trusting us with your travel planning in China!
