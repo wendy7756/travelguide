@@ -32,7 +32,6 @@ Marking the western end of the Great Wall, Jiayuguan Fortress was the last milit
  <br>
 Notable spots: Jiayuguan Pass 嘉峪关关城, Overhanging Great Wall 悬壁长城<br>
 Recommended food: Camel meat stew 驼肉炖粉条, Handmade pulled noodles 拉面<br>
-
  <br>
  ![jiayuguan](./r3-jiayuguan.jpg)
  <br>
@@ -71,7 +70,7 @@ This ancient trade city was a Silk Road crossroads. The Old Town is a vibrant ma
 Notable spots: Id Kah Mosque 艾提尕尔清真寺, Sunday Bazaar 喀什大巴扎<br>
 Recommended food: Polo pilaf 手抓饭, Samsa 烤包子<br>
  <br>
- ![kashi](./r3-kashi)
+ ![kashi](./r3-kashi.jpg)
  <br>
 
 
