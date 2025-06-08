@@ -13,7 +13,7 @@ Weaving through Jiangsu’s historic cities—each known for unique attractions,
 
 Jiangsu’s capital and former national capital of China, Nanjing blends ancient majesty with modern vigor. Its landmarks reflect millennia of history and cultural depth.<br>
  <br>
-Notable spots: Sun Yat-sen Mausoleum 中山陵, Nanjing City Wall 南京城墙<br>
+Notable spots: Sun Yat-sen Mausoleum 中山陵, Nanjing City Wall 南京明城墙<br>
 Recommended food: Salted duck 盐水鸭, duck blood vermicelli soup 鸭血粉丝汤<br>
  <br>
   ![nanjing](./r2-nanjing.jpg)
@@ -24,7 +24,7 @@ Recommended food: Salted duck 盐水鸭, duck blood vermicelli soup 鸭血粉丝
 Famous for its classical gardens and silk culture, Suzhou is a UNESCO World Heritage site with poetic water towns and refined life aesthetics.<br>
  <br>
 Notable spots: Classical Gardens of Suzhou 苏州园林, Pingjiang Road 平江路 <br>
-Recommended food: Squirrel-shaped mandarin fish 松鼠鱼, Sweet-scented osmanthus cake 桃花糕<br>
+Recommended food: Sweet and Sour mandarin fish 松鼠桂鱼, Haitang cake 海棠糕<br>
  <br>
   ![suzhou](./r2-suzhou.jpg)
  <br>
